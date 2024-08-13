@@ -28,7 +28,7 @@ Highly skilled web developer with a passion for creating efficient and user-frie
 * Employed TailwindCss to create a responsive design for the user interface.
 
 ### Sr. Front-end Developer, [Crosmonauts]([https://crosmonauts.club/)) (Jul 2023 - Dec 2023)
-* Completed the front-end development for The Social Tools web application.
+* Completed the front-end development.
 * Employed Git for version control, with the repository hosted on GitHub and deployment on Vercel.
 * Resolved bugs in the main web application, enhancing the website's performance.
 * Implemented a monorepo architecture, improving project management efficiency using GitHub Issues and GitHub Project Management.
