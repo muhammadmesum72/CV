@@ -1,6 +1,5 @@
 # **Muhammad Mesum**
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+Profile)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-mesum-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-8b047a21b/) 
 [![Fiverr](https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_mesum) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohd_mesum)
